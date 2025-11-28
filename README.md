@@ -9,10 +9,10 @@
 *  Always learning and exploring new technologies and frameworks
 *  Interested in full-stack development, software architecture, and modern UI/UX  
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Breijieh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amrbreijieh@gmail.com) 
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ## Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
