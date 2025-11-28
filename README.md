@@ -1,13 +1,13 @@
-# 💫 About Me
+#  About Me
 
-✨ **Full-Stack Developer & Software Engineering Graduate**
+ **Full-Stack Developer & Software Engineering Graduate**
 
-* 💻 Skilled in modern web development using **JavaScript**, **TypeScript**, **Next.js**, **React**, **Node.js**, **Express.js**, **Spring Boot**, and **SQL**
-* 🖥️ Experienced in building **cross-platform desktop applications** using Electron
-* 🚀 Passionate about creating fast, clean, and efficient full-stack applications
-* 🔧 Strong understanding of backend systems, APIs, and scalable application architecture
-* 📚 Always learning and exploring new technologies and frameworks
-* 🌟 Interested in full-stack development, software architecture, and modern UI/UX  
+*  Skilled in modern web development using **JavaScript**, **TypeScript**, **Next.js**, **React**, **Node.js**, **Express.js**, **Spring Boot**, and **SQL**
+*  Experienced in building **cross-platform desktop applications** using Electron
+*  Passionate about creating fast, clean, and efficient full-stack applications
+*  Strong understanding of backend systems, APIs, and scalable application architecture
+*  Always learning and exploring new technologies and frameworks
+*  Interested in full-stack development, software architecture, and modern UI/UX  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Breijieh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amrbreijieh@gmail.com) 
