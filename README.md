@@ -3,7 +3,6 @@
  **Full-Stack Developer & Software Engineering Graduate**
 
 *  Skilled in modern web development using **JavaScript**, **TypeScript**, **Next.js**, **React**, **Node.js**, **Express.js**, **Spring Boot**, and **SQL**
-*  Experienced in building **cross-platform desktop applications** using Electron
 *  Passionate about creating fast, clean, and efficient full-stack applications
 *  Strong understanding of backend systems, APIs, and scalable application architecture
 *  Always learning and exploring new technologies and frameworks
